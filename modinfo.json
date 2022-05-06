@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "Alt_Beta_Cells",
+    "name": "Plutonium instead of Beta Cells",
+    "authors": [ "scarf005" ],
+    "description": "Makes recipes requiring beta cells to be able to use plutonium cells instead.",
+    "category": "items",
+    "dependencies": [ "dda" ]
+  }
+]
